@@ -1,2 +1,14 @@
-.env
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
 myEnv/
+.env
+
+# Django
+db.sqlite3
+ats_backend/media/
+
+# Node
+node_modules/
